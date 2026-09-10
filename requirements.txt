@@ -1,0 +1,6 @@
+streamlit
+opencv-python-headless
+paddlepaddle>=2.5.0
+paddleocr>=2.0.1
+numpy<2.0.0
+Pillow
